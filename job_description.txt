@@ -1,0 +1,37 @@
+Job Title: AI/ML Intern
+
+Company: NovaTech Solutions
+
+Location: Pune, India (Hybrid)
+
+About the Role:
+We are looking for a motivated AI/ML Intern to join our engineering team.
+The intern will assist in building, training, and evaluating machine
+learning models, and will work closely with senior engineers on real
+data-driven projects.
+
+Required Skills:
+- Python
+- SQL
+- Machine Learning (classification, regression, model evaluation)
+- TensorFlow
+- Git
+- Communication
+- Problem Solving
+
+Responsibilities:
+- Assist in data cleaning, preprocessing, and feature engineering
+- Help build and evaluate machine learning models using Python and TensorFlow
+- Write clean, version-controlled code using Git
+- Collaborate with cross-functional teams and clearly communicate findings
+- Document experiments and present results to the team
+
+Preferred Qualifications:
+- Currently pursuing or recently completed a B.Tech/B.E. in Computer
+  Science, Electronics, or a related field
+- Prior academic or personal projects involving machine learning
+- Basic understanding of databases and SQL queries
+- Strong problem-solving mindset and willingness to learn
+
+Duration: 3 months
+Stipend: Paid internship

@@ -1,0 +1,43 @@
+Name: Ananya Sharma
+Email: ananya.sharma@example.com
+Phone: +91-9876543210
+
+Education:
+B.Tech in Electronics and Communication Engineering (AI-ML Specialization)
+XYZ Institute of Technology — Expected Graduation: 2026
+CGPA: 8.7/10
+
+Technical Skills:
+Python, SQL, Machine Learning, TensorFlow, Scikit-learn, Git, GitHub,
+Pandas, NumPy, Data Visualization (Matplotlib, Seaborn)
+
+Projects:
+1. Student Performance Predictor (Machine Learning)
+   - Built a regression model using TensorFlow and Scikit-learn to predict
+     student exam scores based on study habits and attendance data.
+   - Used SQL to query and clean a dataset of 5,000+ student records.
+   - Achieved 89% prediction accuracy on the test set.
+
+2. Resume Screening Tool (Personal Project)
+   - Developed a Python-based tool using NLP techniques to match resumes
+     against job descriptions.
+   - Version-controlled the project using Git and hosted it on GitHub.
+
+3. Spam Email Classifier
+   - Built and trained a TensorFlow-based text classification model to
+     detect spam emails with 94% accuracy.
+
+Internship Experience:
+AI Research Intern — CodeLabs Pvt Ltd (Summer 2025)
+- Assisted a team of 3 engineers in building ML pipelines using Python
+  and TensorFlow.
+- Participated in weekly stand-ups and communicated project progress
+  to senior team members.
+
+Soft Skills:
+Strong communication skills, team collaboration, problem solving,
+time management.
+
+Certifications:
+- Machine Learning Specialization (Coursera)
+- SQL for Data Science (Coursera)

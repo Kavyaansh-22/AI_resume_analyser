@@ -1,0 +1,38 @@
+Name: Rohan Deshmukh
+Email: rohan.deshmukh@example.com
+Phone: +91-9123456780
+
+Education:
+B.Tech in Electronics and Communication Engineering
+ABC College of Engineering — Expected Graduation: 2026
+CGPA: 7.5/10
+
+Technical Skills:
+Python, Machine Learning (basic), Git, C++, Basic Web Development (HTML/CSS)
+
+Projects:
+1. House Price Prediction (College Mini-Project)
+   - Built a simple linear regression model in Python using Scikit-learn
+     to predict house prices from a small dataset.
+   - Worked in a group of 4 students; contributed to data preprocessing.
+
+2. Personal Portfolio Website
+   - Built a basic personal website using HTML and CSS to showcase
+     college projects.
+
+3. Library Management System (C++)
+   - Developed a console-based library management application as part
+     of a data structures course.
+
+Internship Experience:
+None so far. Actively looking for first internship opportunity.
+
+Soft Skills:
+Willing to learn, adaptable, works well in small teams.
+
+Certifications:
+- Python for Everybody (Coursera) — In Progress
+
+Extracurricular:
+- Member of college coding club
+- Participated in a 24-hour hackathon (did not place)
