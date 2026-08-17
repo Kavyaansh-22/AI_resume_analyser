@@ -5,9 +5,7 @@ compare a candidate's resume against a job description and generate a
 structured match analysis — including a match score, matched/missing
 skills, strengths, weaknesses, and personalized suggestions.
 
-This project was built as a B.Tech ECE AI-ML CCA-1 mini-project. It is
-intentionally kept simple so that it can be fully understood, explained,
-and modified by a second-year student.
+
 
 ---
 
