@@ -1,0 +1,35 @@
+Name: Kunal Verma
+Email: kunal.verma@example.com
+Phone: +91-9988776655
+
+Education:
+B.Tech in Mechanical Engineering
+PQR Institute of Technology — Expected Graduation: 2026
+CGPA: 6.8/10
+
+Technical Skills:
+AutoCAD, SolidWorks, MS Excel, Basic C programming
+
+Projects:
+1. Design of a Manual Water Pump (Mechanical Design Project)
+   - Designed and modeled a manual water pump using SolidWorks as part
+     of a core mechanical engineering course.
+
+2. Heat Transfer Analysis of a Metal Rod
+   - Performed manual calculations and Excel-based analysis of heat
+     transfer through a metal rod for a lab assignment.
+
+Internship Experience:
+Summer Trainee — Local Manufacturing Unit (Summer 2025)
+- Observed assembly line operations and quality checks.
+- Assisted supervisors with basic documentation.
+
+Soft Skills:
+Hardworking, punctual, good at technical drawing.
+
+Certifications:
+- AutoCAD Fundamentals (Udemy)
+
+Extracurricular:
+- Member of college cricket team
+- Volunteered for a college cultural fest
